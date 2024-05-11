@@ -12,7 +12,7 @@ else:
 
 ![alt text](https://www.trytoprogram.com/images/python_ifelseif.jpg "Flowchart")
 
-```pyhton
+```python
 def main():
   x = int(input("What's x? "))
     if is_even(x):
