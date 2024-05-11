@@ -1,2 +1,2 @@
 
-![alt text](https://www.trytoprogram.com/images/python_ifelseif.jpg "Logo1")
+![alt text](https://www.trytoprogram.com/images/python_ifelseif.jpg "Flowchart")
