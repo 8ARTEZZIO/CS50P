@@ -67,13 +67,3 @@ students = [
 for student in students:
     print(student["name"], student["house"], student["patronus"], sep=", ")
 ```
-...aand the NeSteD loopS:
-```python
-def main():
-    print_row(4)
-
-def print_row(width):
-    print("?" * width)
-
-main()
-```
