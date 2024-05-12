@@ -14,6 +14,7 @@ Or alternatively:
 ```python
 print("meow\n" * 3, end="")
 ```
+An example of a program with while and for loop:
 ```python
 def main():
     number = get_number()
@@ -31,4 +32,13 @@ def meow(n):
 
 main()
 ```
+Iteration with Lists:
+```python
+student = ["Hermione", "Harry", "Ron"]
 
+for student in students:
+    print(student)   
+# "TOP 3" list of students
+for i in range(len(students)):
+    print(i + 1, students[i])
+```
