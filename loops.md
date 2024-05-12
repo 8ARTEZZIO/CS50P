@@ -68,5 +68,5 @@ for student in students:
     print(student["name"], student["house"], student["patronus"], sep=", ")
 ```
 ...aand the NeSteD loopS:
-```python
+
 ![DAY 1 (1)](https://github.com/8ARTEZZIO/CS50P/assets/159695537/5ea654f5-0584-4717-a99f-b45e4028709f)
