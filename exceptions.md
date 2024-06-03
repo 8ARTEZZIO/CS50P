@@ -77,9 +77,8 @@ def get_int():
 
 main()
 ```
+## Debugging ##
+In VSC just choose breakpoints and press Run and Debug ( Ctrl + Shift + D )
 
-
-
-
-
-
+Step over to move to the next executed line of code.
+Step into to search the line being executed in detail.
