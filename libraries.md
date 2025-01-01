@@ -16,7 +16,7 @@ print(coin)
 OR
 
 ```python
-from import random choice
+from random important choice 
 
 coin = choice(["heads", "tails"])
 print(coin)
